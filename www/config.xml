@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.xortexebusinessgmbh.jquerymobiletest"
         version   = "1.0.0">
-    <name>first PhoneGap App</name>
+    <name>test Debug PhoneGap</name>
 
     <description>
         Testing PhoneGap
